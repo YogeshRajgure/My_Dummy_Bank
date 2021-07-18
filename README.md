@@ -1,6 +1,8 @@
 # my_dummy_bank.github.io
 This is the dummy bank website built for the internship's extra task at The Spark Foundation. It has some basic bank functions.
 
+Due to database integratio, I have hosted this website on 000webhost, you can check it out at:-  https://dummyproject-vraj.000webhostapp.com/index.html
+
 This is a banking system designed to show all customer details, transfer money and display the transaction status between the customers. 
 Technologies used:
 1. HTML
